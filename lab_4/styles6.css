@@ -1,0 +1,19 @@
+a:active {
+  color: magenta;
+}
+
+a:link {
+  color: lime;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  background-color: magenta;
+}
+
+div:hover {
+  opacity: 37.5%
+}

@@ -1,0 +1,52 @@
+div.ab1{
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px gray, 1px 1px white;
+}
+
+div.ab2{
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+div.ab1, div.ab2 {
+  text-align: center;
+}
+
+div.ab3 {
+  margin-top: 10px;
+  text-wrap: wrap;
+  text-align: justify;
+  text-indent: 3em;
+}
+
+div.ab3::first-letter {
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

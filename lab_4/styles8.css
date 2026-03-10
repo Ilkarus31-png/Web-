@@ -1,0 +1,16 @@
+.yandex {
+  margin-bottom:20px;
+  font-size: 25px;
+}
+
+.yandex::first-letter {
+  color:red;
+}
+
+.text {
+  white-space: pre-line;
+}
+
+.text::first-line {
+  color: blue;
+}

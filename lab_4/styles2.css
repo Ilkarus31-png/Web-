@@ -1,0 +1,30 @@
+.ab1 {
+  font-family: "Arial Black";
+  font-size: 20px;
+}
+
+.ab2 {
+  font-family: "Courier New";
+  font-size: 24 px;
+  font-align: justify;
+  font-style: italic;
+}
+
+.ab3 {
+  white-space: pre-line;
+  font-family: "Verdana";
+  font-weidth: bold;
+  font-size: 10px;
+}
+
+.ab4 {
+  font-family: "Georgia";
+  font-size: 2.5em;
+  font-align: center;
+}
+
+.ab5 {
+  font-family: "Comic Sans MS";
+  font-style: italic;
+  font-size: 1.3em;
+}

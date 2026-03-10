@@ -1,0 +1,16 @@
+p {
+  color:green;
+}
+
+li#st1{ color: blue; }
+li#st2{ color: red; }
+li#st3{ color: violet; }
+li#st4{ color: lavender; }
+li#st5{ color: orange; }
+li#st6{ color: purple; }
+
+.st7{ color: magenta; }
+.st8{ color: cyan; }
+.st9{ color: lavender; }
+.st10{ color: lime; }
+
