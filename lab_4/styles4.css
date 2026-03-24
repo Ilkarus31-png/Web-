@@ -3,13 +3,5 @@ h1.ab1 {
 }
 
 div.ab2 {
-  border-top: 1px solid gray;
-}
-
-div.ab3 {
-  border-top: 1px solid #000;
-}
-
-div.ab4 {
   border-top: 1px solid #000;
 }
